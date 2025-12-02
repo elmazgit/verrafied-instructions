@@ -1,0 +1,13 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='720' height='1580' viewBox='0 0 720 1580'>
+<defs>
+  <linearGradient id='g' x1='0%' y1='0%' x2='100%' y2='100%'>
+    <stop offset='0%' stop-color='#0f131b'/>
+    <stop offset='100%' stop-color='#111827'/>
+  </linearGradient>
+</defs>
+<rect width='720' height='1580' fill='url(#g)'/>
+<rect x='40' y='160' width='640' height='1260' rx='32' fill='none' stroke='#0fbf78' stroke-width='8' stroke-dasharray='18 14'/>
+<text x='50%' y='110' fill='#0fbf78' font-family='Inter, Arial, sans-serif' font-size='36' text-anchor='middle' font-weight='700'>Verrafied App Screenshot</text>
+<text x='50%' y='220' fill='#cdd5e1' font-family='Inter, Arial, sans-serif' font-size='28' text-anchor='middle'>Placeholder – replace with real image</text>
+<text x='50%' y='300' fill='#9ca3af' font-family='Inter, Arial, sans-serif' font-size='24' text-anchor='middle'>Inspection report with summary and component report toggles</text>
+</svg>
